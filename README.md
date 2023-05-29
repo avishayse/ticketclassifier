@@ -20,7 +20,7 @@ For example, if a user submits a support ticket with the text "Cannot login to m
 By automating the ticket classification process, you can streamline your customer support workflow, ensure faster ticket resolution, and improve overall customer satisfaction.
 
 Remember to train the model using a relevant dataset of cnvrg.io support tickets specific to your domain or application. Additionally, customize the labels list in the code to match the categories or labels you have defined for your support tickets.
-
+![Example Image](pipline.png)
 # Deployment and Inference
 
 
